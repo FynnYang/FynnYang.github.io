@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[Hello World]]></title>
-    <url>%2F2017%2F05%2F17%2Fhello-world%2F</url>
-    <content type="text"><![CDATA[欢迎使用 Hexo，本文档将帮助您快速上手。如果您在使用过程中遇到问题，请查看 问题解答 中的解答，或者在 GitHub、Google Group 上提问。 什么是 Hexo？]]></content>
+    <title><![CDATA[你好 世界]]></title>
+    <url>%2F2017%2F05%2F16%2Fhello-world%2F</url>
+    <content type="text"><![CDATA[欢迎使用 Hexo，本文档将帮助您快速上手。如果您在使用过程中遇到问题，请查看 问题解答 中的解答，或者在 GitHub、Google Group 上提问。 什么是Hexo？ 欢迎使用 Hexo，本文档将帮助您快速上手。如果您在使用过程中遇到问题，请查看 问题解答 中的解答，或者在 GitHub、Google Group 上提问。 什么是Hexo？]]></content>
+      <categories>
+        <category>测试</category>
+      </categories>
   </entry>
 </search>
